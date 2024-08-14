@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\bin\Debug\netcoreapp3.1\Mathics.exe
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\bin\Debug\netcoreapp3.1\Mathics.deps.json
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\bin\Debug\netcoreapp3.1\Mathics.runtimeconfig.json
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\bin\Debug\netcoreapp3.1\Mathics.runtimeconfig.dev.json
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\bin\Debug\netcoreapp3.1\Mathics.dll
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\bin\Debug\netcoreapp3.1\Mathics.pdb
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\obj\Debug\netcoreapp3.1\Mathics.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\obj\Debug\netcoreapp3.1\Mathics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\obj\Debug\netcoreapp3.1\Mathics.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\obj\Debug\netcoreapp3.1\Mathics.AssemblyInfo.cs
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\obj\Debug\netcoreapp3.1\Mathics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\obj\Debug\netcoreapp3.1\Mathics.dll
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\obj\Debug\netcoreapp3.1\Mathics.pdb
+C:\Users\Admin\Documents\DevOpsfiles\MyGits\AppsOne\Mathics\obj\Debug\netcoreapp3.1\Mathics.genruntimeconfig.cache
